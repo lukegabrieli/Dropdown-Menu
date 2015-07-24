@@ -1,0 +1,53 @@
+/*-----MEYERWEB RESET-----*/
+
+/* http://meyerweb.com/eric/tools/css/reset/
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+html, body, h1, a, ul, li, header, nav {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+header, nav, {
+  display: block;
+}
+body {
+  line-height: 1;
+}
+ul {
+  list-style: none;
+}
+
+
+/*-----LAYOUT-----*/
+
+#mainTrigger {
+  display: inline-block;
+  width: 10em;
+}
+
+a {
+  display: block;
+}
+
+.mainListItem {
+  position: relative;
+}
+
+.subList {
+  position: fixed;
+  left: 10em;
+  top: 3.38em;
+}
+
+.hide {
+  display: none;
+}
+
+

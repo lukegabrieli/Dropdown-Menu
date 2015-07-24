@@ -1,0 +1,12 @@
+h1:hover {
+  cursor: pointer;
+}
+
+a:hover{
+  opacity: .9;
+}
+
+.subList li:hover {
+  cursor: pointer;
+  opacity: .9;
+}

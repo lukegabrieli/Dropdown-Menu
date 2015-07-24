@@ -1,0 +1,36 @@
+/*-----STYLE-----*/
+
+body {
+  font-family: sans-serif;
+}
+
+#mainTrigger {
+  text-align: center;
+}
+
+h1 {
+  text-transform: uppercase;
+  border: .2em solid #1c5193;
+  padding: 1em;
+}
+
+a{
+  text-decoration: none;
+  color: white;
+}
+
+.subList li {
+  padding: 1em;
+}
+
+.mainListItemName {
+  background-color: #1c5193;
+  padding: 1em;
+}
+
+.subList li {
+  color: white;
+  background-color: #72c03d;
+}
+
+
